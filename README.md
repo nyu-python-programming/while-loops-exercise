@@ -1,4 +1,4 @@
-## 99 Bottles of Beer (A Traditional American Song)
+## Loops Exercise - 99 Bottles of Beer (A Traditional American Song)
 
 Welcome! Your assignment is to write a program that sings (i.e. prints) the road trip song, "99 Bottles of Beer".
 
