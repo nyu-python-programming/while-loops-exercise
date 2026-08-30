@@ -89,4 +89,4 @@ Each student must submit this assignment individually. Use Visual Studio Code to
 
 ![Pushing work in Visual Studio Code](./images/vscode_stage_commit_push.png)
 
-Finally, post the web address of your fork in your own private channel in the course Discord, so that we know your work is ready to be graded. Work that has been pushed but whose address has never been posted has not been submitted, since we have no way to find it.
+Finally, share the web address of your fork using the messaging app specified by your instructor, posting it wherever the instructor has directed you to submit work. Work that has been pushed but whose address has never been shared has not been submitted, since we have no way to find it.
